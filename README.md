@@ -4,7 +4,7 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="vk.com/dbudin">
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
