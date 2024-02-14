@@ -3,8 +3,8 @@
 </div>
 
 
-<div id="badges">
-  <a href="[vk.com/dbudin](https://vk.com/dbudin)">
+<div id="badges" style="text-align: center;">
+  <a href="https://vk.com/dbudin">
     <img src="https://komarev.com/ghpvc/?username=Xeosha&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
